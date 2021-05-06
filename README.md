@@ -37,6 +37,8 @@ Also, when importing a file (not a package), be sure to add .js at the end or yo
 
 You can also install and setup Babel if you would like
 
+## Installation
+
 ### Env Variables
 
 Create a .env file in then root and add the following
