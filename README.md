@@ -1,4 +1,24 @@
-# HospitalManagement
+# Hospital Management System
+
+> Hospital Management System Built with the MERN (MongoDB, Express , React.js and Node.js) and Redux.
+
+We have hosted this website on [Heroku](https://www.heroku.com).
+You can go to our website from [Here](https://hospital-managementapp.herokuapp.com/).
+
+![screenshot](https://ibb.co/TtXLJjJ)
+![screenshot](https://ibb.co/42WTb1r)
+
+### Frontend
+
+- Frontend is built with ReactJs.
+- For styling we used Bootstrap and CSS.
+
+### Backend
+
+- Backend is built with NodeJS.
+- Express web-framework for NodeJs is used.
+- Database used is MongoDB.
+- Mongoose is used for MongoDB object modelling.
 
 ## Functions
 
