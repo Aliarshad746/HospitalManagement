@@ -5,8 +5,8 @@
 We have hosted this website on [Heroku](https://www.heroku.com).
 You can go to our website from [Here](https://hospital-managementapp.herokuapp.com/).
 
-![screenshot](https://ibb.co/TtXLJjJ)
-![screenshot](https://ibb.co/42WTb1r)
+![screenshot](https://github.com/Aliarshad746/Uploads/blob/master/pic1.PNG)
+![screenshot](https://github.com/Aliarshad746/Uploads/blob/master/pic2.PNG)
 
 ### Frontend
 
