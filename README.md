@@ -12,6 +12,7 @@ You can go to our website from [Here](https://hospital-managementapp.herokuapp.c
 
 - Frontend is built with ReactJs.
 - For styling we used Bootstrap and CSS.
+- Redux is used for global state management.
 
 ### Backend
 
