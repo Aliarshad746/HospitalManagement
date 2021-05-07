@@ -134,3 +134,16 @@ Fabian@example.com (Doctor)
 123456
 
 ```
+
+### Additional Details For Project Submission
+
+Created By : <br/>
+<br/>
+Ayush Jaggi (185024)<br/>
+Arshad Ali (185043)<br/>
+Yash Gagneja (185044)<br/>
+Prashant Kumar Jangid (185045)<br/>
+
+Course: CSD-327 Software Engineering LAB<br/>
+Date: May 6th, 2021<br/>
+Submitted to: Dr. Dharmendra Prasad Mahto<br/>
