@@ -139,7 +139,7 @@ Fabian@example.com (Doctor)
 
 Created By : <br/>
 <br/>
-Ayush Jaggi (185024)<br/>
+Aayush Jaggi (185024)<br/>
 Arshad Ali (185043)<br/>
 Yash Gagneja (185044)<br/>
 Prashant Kumar Jangid (185045)<br/>
